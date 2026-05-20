@@ -268,6 +268,4 @@ If you've finished the course, please add your name and one of your social pages
 | Kian Kamgar | [Linkedin](https://www.linkedin.com/in/kiankamgar) |
 | Omid Akhgary | [Linkedin](https://www.linkedin.com/in/omidakhgary) |
 | Mohammad Rezaei | [Linkedin](https://www.linkedin.com/in/mohammadrezaei5/) |
-
-
-
+| zeinab soufi neystani | [Linkedin](https://www.linkedin.com/in/zeinab-soufi-neyestani-8a1842299) [Github](https://github.com/zizisoufi)|
